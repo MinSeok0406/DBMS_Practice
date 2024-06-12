@@ -1,0 +1,8 @@
+﻿  CPP_Study(전방선언).cpp
+D:\C++작업\CPP_Study(전방선언)\Player.h(15,1): error C2027: 정의되지 않은 형식 'Monster'을(를) 사용했습니다.
+D:\C++작업\CPP_Study(전방선언)\Player.h(24): message : 'Monster' 선언을 참조하십시오.
+  Monster.cpp
+  Player.cpp
+D:\C++작업\CPP_Study(전방선언)\Player.h(15,1): error C2027: 정의되지 않은 형식 'Monster'을(를) 사용했습니다.
+D:\C++작업\CPP_Study(전방선언)\Player.h(24): message : 'Monster' 선언을 참조하십시오.
+  코드를 생성하고 있습니다...
